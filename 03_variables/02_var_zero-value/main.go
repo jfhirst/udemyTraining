@@ -1,7 +1,7 @@
 package main
 
 import (
-"fmt"
+	"fmt"
 )
 
 func main() {
@@ -21,4 +21,3 @@ func main() {
 	fmt.Printf("%v  \n ", c)
 	fmt.Printf("%v  \n ", d)
 }
-

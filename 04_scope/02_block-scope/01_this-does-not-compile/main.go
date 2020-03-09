@@ -1,7 +1,8 @@
 package main
 
 import "fmt"
-   //var x = 75
+
+//var x = 75
 
 func main() {
 	x := 42
